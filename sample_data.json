@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Gigachad Sol", "symbol": "GIGA", "mint": "GighaC4dSoLmintExampLe11111111111111111111",
+    "priceUsd": 0.004210, "liquidityUsd": 180000, "volume24hUsd": 900000,
+    "fdvUsd": 2100000, "marketCapUsd": 2000000, "pairCreatedAt": 1788134400000,
+    "priceChange": {"h1": 4.2, "h24": 15.0}, "txns24h": {"buys": 3200, "sells": 2800},
+    "url": "https://dexscreener.com/solana/gigachadexamplepair"
+  },
+  {
+    "name": "Dog Wif Nothing", "symbol": "DWN", "mint": "DwN0thingSoLmintExampLe2222222222222222222",
+    "priceUsd": 0.018400, "liquidityUsd": 95000, "volume24hUsd": 1200000,
+    "fdvUsd": 3000000, "marketCapUsd": 2900000, "pairCreatedAt": 1787875200000,
+    "priceChange": {"h1": -3.1, "h24": -18.0}, "txns24h": {"buys": 4100, "sells": 3900},
+    "url": "https://dexscreener.com/solana/dogwifnothingexamplepair"
+  },
+  {
+    "name": "Wolf Of Solana", "symbol": "WOLF", "mint": "WoLf0fSoLmintExampLe33333333333333333333333",
+    "priceUsd": 0.000420, "liquidityUsd": 22000, "volume24hUsd": 500000,
+    "fdvUsd": 1200000, "marketCapUsd": 1150000, "pairCreatedAt": 1788494400000,
+    "priceChange": {"h1": 28.0, "h24": 64.0}, "txns24h": {"buys": 900, "sells": 700},
+    "url": "https://dexscreener.com/solana/wolfofsolanaexamplepair"
+  },
+  {
+    "name": "Ponzi Punk", "symbol": "PONZI", "mint": "P0nziPunkSoLmintExampLe4444444444444444444",
+    "priceUsd": 0.000075, "liquidityUsd": 45000, "volume24hUsd": 900000,
+    "fdvUsd": 2800000, "marketCapUsd": 2700000, "pairCreatedAt": 1788393600000,
+    "priceChange": {"h1": -35.0, "h24": -52.0}, "txns24h": {"buys": 400, "sells": 1200},
+    "url": "https://dexscreener.com/solana/ponzipunkexamplepair"
+  },
+  {
+    "name": "Safemoon Baby", "symbol": "SAFEB", "mint": "SafeBabySoLmintExampLe55555555555555555555",
+    "priceUsd": 0.000009, "liquidityUsd": 15000, "volume24hUsd": 300000,
+    "fdvUsd": 600000, "marketCapUsd": 580000, "pairCreatedAt": 1788555600000,
+    "priceChange": {"h1": 46.0, "h24": 210.0}, "txns24h": {"buys": 640, "sells": 40},
+    "url": "https://dexscreener.com/solana/safemoonbabyexamplepair"
+  },
+  {
+    "name": "Rug Me Daddy", "symbol": "RUGME", "mint": "RugMeDaddySoLmintExampLe666666666666666666",
+    "priceUsd": 0.0000021, "liquidityUsd": 1500, "volume24hUsd": 90000,
+    "fdvUsd": 400000, "marketCapUsd": 390000, "pairCreatedAt": 1788564600000,
+    "priceChange": {"h1": 120.0, "h24": 120.0}, "txns24h": {"buys": 210, "sells": 180},
+    "url": "https://dexscreener.com/solana/rugmedaddyexamplepair"
+  }
+]

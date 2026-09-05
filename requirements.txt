@@ -1,0 +1,3 @@
+# coinjury has NO required dependencies — it runs on the Python standard library.
+# (urllib handles the keyless DexScreener + optional Anthropic calls.)
+# 'requests' is only here if you prefer to swap it in; nothing imports it by default.
