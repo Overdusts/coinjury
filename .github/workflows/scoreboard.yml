@@ -1,0 +1,29 @@
+name: "$20 experiment"
+
+# Runs the paper experiment once a day, commits the updated scoreboard.
+# Keeps the running $20 bankroll auditable in git history.
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 13:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run the $20 experiment
+        run: python coinjury.py challenge --limit 20 || true
+      - name: Commit the scoreboard
+        run: |
+          git config user.name "Overdusts"
+          git config user.email "118273651+Overdusts@users.noreply.github.com"
+          git add SCOREBOARD.md positions.json
+          git diff --cached --quiet || git commit -m "chore: update \$20 experiment scoreboard"
+          git push

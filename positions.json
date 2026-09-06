@@ -1,0 +1,51 @@
+{
+  "startedAt": "2026-09-06T20:03:42.923866+00:00",
+  "startCash": 20.0,
+  "cash": 8.0,
+  "positions": [
+    {
+      "sym": "SAAR",
+      "mint": "8H5yfL1GoDETLDaLYZzrgQuZs37eiKJjdfP21b6ypump",
+      "entry": 0.0009155,
+      "last": 0.0009155,
+      "amount": 4.0,
+      "openedAt": "2026-09-06T20:03:56.138218+00:00"
+    },
+    {
+      "sym": "DCAT",
+      "mint": "2sywcwJdrYWXr7h3xqNAoSKQfyutcBnFeVg5vP96pump",
+      "entry": 9.251e-05,
+      "last": 9.251e-05,
+      "amount": 4.0,
+      "openedAt": "2026-09-06T20:03:56.138218+00:00"
+    },
+    {
+      "sym": "ZCASHCAT",
+      "mint": "3rbmAAonWqxmPJ7rzQUHyZtqwqrF54EZa3pJgphmpump",
+      "entry": 0.0002104,
+      "last": 0.0002104,
+      "amount": 4.0,
+      "openedAt": "2026-09-06T20:03:56.138218+00:00"
+    }
+  ],
+  "log": [
+    {
+      "t": "2026-09-06T20:03:56.138218+00:00",
+      "action": "BUY",
+      "sym": "SAAR",
+      "risk": 0
+    },
+    {
+      "t": "2026-09-06T20:03:56.138218+00:00",
+      "action": "BUY",
+      "sym": "DCAT",
+      "risk": 30
+    },
+    {
+      "t": "2026-09-06T20:03:56.138218+00:00",
+      "action": "BUY",
+      "sym": "ZCASHCAT",
+      "risk": 38
+    }
+  ]
+}
