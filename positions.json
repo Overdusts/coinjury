@@ -1,7 +1,7 @@
 {
   "startedAt": "2026-09-06T20:03:42.923866+00:00",
   "startCash": 20.0,
-  "cash": 8.0,
+  "cash": 0.0,
   "positions": [
     {
       "sym": "SAAR",
@@ -26,6 +26,22 @@
       "last": 0.0002104,
       "amount": 4.0,
       "openedAt": "2026-09-06T20:03:56.138218+00:00"
+    },
+    {
+      "sym": "$HACHI",
+      "mint": "x95HN3DWvbfCBtTjGm587z8suK3ec6cwQwgZNLbWKyp",
+      "entry": 1.645e-09,
+      "last": 1.645e-09,
+      "amount": 4.0,
+      "openedAt": "2026-09-07T18:00:23.032451+00:00"
+    },
+    {
+      "sym": "BTC",
+      "mint": "E4Ap4icMLwKot8rkkTbq5JkS5kZxt5XCE3yfxbzYBjHx",
+      "entry": 0.002324,
+      "last": 0.002324,
+      "amount": 4.0,
+      "openedAt": "2026-09-07T18:00:23.032451+00:00"
     }
   ],
   "log": [
@@ -46,6 +62,18 @@
       "action": "BUY",
       "sym": "ZCASHCAT",
       "risk": 38
+    },
+    {
+      "t": "2026-09-07T18:00:23.032451+00:00",
+      "action": "BUY",
+      "sym": "$HACHI",
+      "risk": 5
+    },
+    {
+      "t": "2026-09-07T18:00:23.032451+00:00",
+      "action": "BUY",
+      "sym": "BTC",
+      "risk": 10
     }
   ]
 }

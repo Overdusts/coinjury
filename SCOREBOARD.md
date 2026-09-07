@@ -2,7 +2,7 @@
 
 > Can an AI flip **$20** in Solana memecoins without getting rugged? Every call is logged automatically. **Not financial advice.**
 
-**Equity:** $20.00 (+0.0% vs $20) &nbsp;|&nbsp; **Cash:** $8.00 &nbsp;|&nbsp; **Open:** 3 &nbsp;|&nbsp; started 2026-09-06
+**Equity:** $20.00 (+0.0% vs $20) &nbsp;|&nbsp; **Cash:** $0.00 &nbsp;|&nbsp; **Open:** 5 &nbsp;|&nbsp; started 2026-09-06
 
 ### Open positions
 
@@ -11,9 +11,13 @@
 | SAAR | $0.000915 | $0.000915 | $4.00 | +0.00 |
 | DCAT | $0.000093 | $0.000093 | $4.00 | +0.00 |
 | ZCASHCAT | $0.000210 | $0.000210 | $4.00 | +0.00 |
+| $HACHI | $0.000000 | $0.000000 | $4.00 | +0.00 |
+| BTC | $0.002324 | $0.002324 | $4.00 | +0.00 |
 
 ### Recent calls
 
+- `2026-09-07T18:00` **BUY** BTC (risk 10)
+- `2026-09-07T18:00` **BUY** $HACHI (risk 5)
 - `2026-09-06T20:03` **BUY** ZCASHCAT (risk 38)
 - `2026-09-06T20:03` **BUY** DCAT (risk 30)
 - `2026-09-06T20:03` **BUY** SAAR (risk 0)
